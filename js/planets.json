@@ -1,0 +1,54 @@
+{
+  "description": "A list of planets, the size is percentage relative to earth, and the gravitational pull of the planet in terms of grams.",
+  		"planets": [
+    	{
+			"name": "Earth",
+			"size": 100,
+			"grav": 1
+		},
+
+		{
+			"name": "Venus",
+			"size": 95,
+			"grav": 0.904
+		},
+
+		{
+			"name": "Mars",
+			"size": 53,
+			"grav": 0.38
+		},
+
+		{
+			"name": "Jupiter",
+			"size": 1120,
+			"grav": 2.528
+		},
+
+		{
+			"name": "Saturn",
+			"size": 945,
+			"grav": 1.065
+		},
+
+		{
+			"name": "Neptune",
+			"size": 388,
+			"grav": 0.1654
+		},
+
+		{
+			"name": "Uranus",
+			"size": 400,
+			"grav": 0.886
+		},
+
+		{
+			"name": "Mercury",
+			"size": 38,
+			"grav": 0.38
+		}
+
+    ]
+}
+
